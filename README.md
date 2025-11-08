@@ -48,7 +48,7 @@ My focus:
 ### 📬 Let's Connect
 - 🌐 Portfolio: [your-website.com]  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile]  
-- 📧 Email: [your.email@example.com]  
+- 📧 Email: temikom11@gmail.com
 - 🧠 Blog: [dev.to/yourhandle] (Coming Soon)
 
 ---
